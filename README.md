@@ -1,5 +1,6 @@
 # laravel_erp_multiple_stores
  laravel erp system with multiple stores built for all to improve and scale your business.
+ 
 <img width="771" alt="cust" src="https://user-images.githubusercontent.com/65095314/222575207-59eb709e-3d3b-4337-8994-57c6e3af7c9b.png">
 <img width="771" alt="categ" src="https://user-images.githubusercontent.com/65095314/222575238-f2d53415-f960-4694-84d8-b8f540ce41c3.png">
 <img width="764" alt="expense" src="https://user-images.githubusercontent.com/65095314/222575267-9f3037a6-946b-45f0-8365-51a4c49f9dab.png">
